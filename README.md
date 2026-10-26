@@ -1,148 +1,112 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Piter%20Miranda%20Macedo&fontSize=38&fontColor=ffffff&animation=fade&fontAlignY=38" alt="Cabeçalho do perfil" />
 
-<!-- ================= HEADER / SYSTEM BOOT ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SYSTEM_BOOT:%20DogCell-Dev&fontSize=38&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=ACCESS_GRANTED%20//%20INITIALIZING%20DEV_PROFILE...&descAlignY=58&descAlign=50" width="100%"/>
+  <h1>Desenvolvedor Full Stack</h1>
+  <p>
+    Construindo aplicações web completas, organizadas e escaláveis — do frontend ao backend.
+  </p>
 
-<!-- Terminal typing animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Ol%C3%A1%2C+eu+sou+DogCell_Dev%3B;root%40kali%3A~%23+whoami;%3E+FUTURE_DEVELOPER+%5BLOADING...%5D" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Badges de status -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/ROLE-DEVELOPER-9D00FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/badge/LOCATION-BRAZIL-00FFF2?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d0d0d"/>
-
-<br/><br/>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=CONEX%C3%95ES+DETECTADAS&color=9D00FF&style=for-the-badge&labelColor=0d0d0d" alt="Profile views"/>
-
+  <p>
+    <a href="https://www.linkedin.com/in/piter-miranda-macedo-a8714137a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=DogCell-Dev&label=Visualizações%20do%20perfil&color=0ea5e9&style=for-the-badge" alt="Visualizações do perfil" />
+  </p>
 </div>
 
-<br/>
+## Sobre mim
 
-<!-- ================= ABOUT ME / SYSTEM LOG ================= -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-%3E_ABOUT__ME.log-39FF14?style=flat-square&labelColor=000000"/>
-</h2>
+Olá! Eu sou **Piter Miranda Macedo**, estudante de **Desenvolvimento de Software Multiplataforma na FATEC Franco da Rocha** e desenvolvedor com foco em **Full Stack**.
 
-```ansi
-[SYSTEM_LOG] Iniciando protocolo de identificação de usuário...
-[OK] Conexão segura estabelecida.
+Tenho interesse em transformar ideias em soluções funcionais, mantendo atenção à organização do código, experiência do usuário e construção de APIs e aplicações web. Estou em constante evolução e busco uma oportunidade para aplicar meus conhecimentos, aprender com novos desafios e contribuir com equipes de tecnologia.
 
-> USER_ID       : DogCell-Dev
-> STATUS        : student.exe [RUNNING]
-> INSTITUTION   : FATEC Franco da Rocha
-> COURSE        : Desenvolvimento de Software Multiplataforma
-> FOCUS         : Soluções Full-Stack | Cross-Platform Systems
-> MISSION       : Transformar café em código funcional ☕→💻
-> CURRENT_TASK  : Aprendendo, quebrando e consertando sistemas todos os dias.
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma
+- 💻 Foco atual: desenvolvimento Full Stack
+- 🌱 Aprimorando meus conhecimentos em aplicações web, APIs e bancos de dados
+- 🤝 Aberto a oportunidades, projetos e conexões profissionais
 
-[END_OF_LOG] :: Aguardando novos comandos...
-```
+## Tecnologias e ferramentas
 
-<br/>
+### Frontend
 
-<!-- ================= SKILLS MATRIX ================= -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-%3E_SKILLS__MATRIX.exe-9D00FF?style=flat-square&labelColor=000000"/>
-</h2>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-<p align="center"><i>// Categorias isoladas por protocolo de segurança do sistema</i></p>
+### Backend e desenvolvimento
 
-<table align="center">
-<tr>
-<td align="center" valign="top" width="50%">
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" alt="Nodemon" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-**💻 Linguagens de Programação**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFF2"/>
+### Bancos de dados
 
-</td>
-<td align="center" valign="top" width="50%">
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-**🗄️ Banco de Dados**
-<br/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=9D00FF"/>
+### Ferramentas
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-**🎨 Interface & Web (Marcação/Estilo)**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF2079"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFF2"/>
+## O que estou desenvolvendo
 
-</td>
-<td align="center" valign="top" width="50%">
+- Aplicações web responsivas e acessíveis;
+- APIs para integração entre frontend, backend e bancos de dados;
+- Sistemas Full Stack utilizando JavaScript, Node.js e MongoDB;
+- Projetos com código organizado, versionamento e evolução contínua.
 
-**🛠️ Ferramentas & Controle de Versão**
-<br/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14"/>
+<!--
+## Projetos em destaque
 
-</td>
-</tr>
-</table>
+> Remova os comentários desta seção quando quiser exibir seus projetos.
+> Substitua os exemplos abaixo pelos links e descrições dos seus repositórios.
 
-<br/>
+### [Nome do projeto](LINK_DO_REPOSITORIO)
+Descrição objetiva do projeto, principais funcionalidades e tecnologias utilizadas.
 
-<!-- ================= STATS / GRÁFICOS ================= -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-%3E_DATA__ANALYSIS.sys-00FFF2?style=flat-square&labelColor=000000"/>
-</h2>
+**Tecnologias:** JavaScript · Node.js · MongoDB · Mongoose
+
+---
+
+### [Nome do projeto](LINK_DO_REPOSITORIO)
+Descrição objetiva do projeto, seu objetivo e o problema que ele resolve.
+
+**Tecnologias:** HTML · CSS · JavaScript · Python · SQL
+-->
+
+## Estatísticas do GitHub
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=9D00FF&text_color=c9d1d9&ring_color=00FFF2"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D0D0D&ring=9D00FF&fire=39FF14&currStreakLabel=00FFF2"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=39FF14&line=9D00FF&point=00FFF2"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DogCell-Dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DogCell-Dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DogCell-Dev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub streak" />
+</div>
 
-<!-- ================= REDES SOCIAIS ================= -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/-%3E_OPEN__CHANNELS.net-FF2079?style=flat-square&labelColor=000000"/>
-</h2>
+## Vamos conversar?
 
-<p align="center"><i>// Estabeleça conexão através dos canais abaixo</i></p>
+Estou aberto a oportunidades profissionais, projetos colaborativos e conexões com pessoas da área de tecnologia.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFF2"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/piter-miranda-macedo-a8714137a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Piter%20Miranda%20Macedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Piter Miranda Macedo" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF2079"/>
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
-  </a>
-  <a href="https://discord.com/users/SEU_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=9D00FF"/>
-  </a>
-</p>
+</div>
 
-<br/>
+<br />
 
-<!-- ================= FOOTER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CONNECTION_TERMINATED-000000?style=flat-square&logo=powershell&logoColor=39FF14"/>
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=100&section=footer" alt="Rodapé" />
 </div>
